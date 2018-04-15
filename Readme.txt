@@ -17,5 +17,5 @@ Description :
 	
 2. Code
 	2.1 TX (Upload to 1st arduino pro micro(located above))
-	2.2 RX (Upload to 1st arduino pro micro(located below))
+	2.2 RX (Upload to 2nd arduino pro micro(located below))
 	2.3 Processing
