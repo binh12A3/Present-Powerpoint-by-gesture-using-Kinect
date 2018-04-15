@@ -1,4 +1,4 @@
-Project : "Present powerpoint using gesture" - KINECT & Processing
+Project : "Present powerpoint by gesture using Kinect " - KINECT & Processing
 Demo : https://www.youtube.com/watch?v=GYWSLkKE07M&t=0s&index=7&list=PLt_1MQ7OBDxYsXAp0R0eX-2Xj1odvyl7v
 
 Description :
