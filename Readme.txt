@@ -13,7 +13,7 @@ Description :
 	The first board (located above)is used for reading data from processing and send data to the second board.
 	The second board (located below) is used for reading data from the first board and then send send the keyboard emulation signal to computer.
 	
-	Why I used "arduino pro micro" for this project ??? Because it is supported for simulating keyboard signal.
+	Why I used "arduino pro micro" for this project ??? Because it supports for simulating keyboard signal.
 	
 2. Code
 	2.1 TX (Upload to 1st arduino pro micro(located above))
